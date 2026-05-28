@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdender",
+        "uuid": 16398057,
+        "checksum": "3di7n"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
